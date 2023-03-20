@@ -1,0 +1,17 @@
+.theme-dark {
+  --background-primary: #1B1B1F; /* 0 */
+  --background-secondary: #23242A; /* +1 */
+  --background-secondary-alt: #26272E; /* +1.5 */
+  --background-tertiary: #282931; /* +2 */
+  --modal-background: #2D2D38; /* +3 */
+  --modal-footer-background: #46464F; /* Variant */
+}
+
+.theme-light {
+  --background-primary: #FFFBFF; /* 0 */
+  --background-secondary: #F5F2FD; /* +1 */
+  --background-secondary-alt: #F3F0FD; /* +1.5 */
+  --background-tertiary: #F0EDFC; /* +2 */
+  --modal-background: #EAE7FB; /* +3 */
+  --modal-footer-background: #E3E1EC; /* Variant */
+}
