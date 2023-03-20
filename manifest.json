@@ -1,0 +1,18 @@
+{
+    "id": "site.madeup.discordm3",
+    "name": "discord M3",
+    "description": "material design 3 based theme",
+    "author": {
+        "name": "jiltq",
+        "discordID": "695662672687005737",
+        "github": "jiltq"
+    },
+    "updater": {
+        "type": "github",
+        "id": "jiltq/discord-m3"
+    },
+    "version": "0.0.1",
+    "license": "MIT",
+    "type": "replugged-theme",
+    "main": "main.css"
+}
