@@ -5,4 +5,4 @@ a material design 3 based theme for discord
 
 only affects background colors
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/89758063/226481930-e684e8f4-31cd-4ba7-9094-d5d8594b55cc.png">
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/89758063/226481930-e684e8f4-31cd-4ba7-9094-d5d8594b55cc.png">
